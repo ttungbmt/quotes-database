@@ -4,6 +4,799 @@
     "quote_en": "I have no special talent. I am only passionately curious.",
     "quote_vi": "Tôi không có tài năng gì đặc biệt. Tôi chỉ tò mò một cách say mê.",
     "quote_original": "Ich habe keine besondere Begabung, sondern bin nur leidenschaftlich neugierig.",
-    "author": ""
+    "author": "Albert Einstein",
+    "rating": 5.0
+  },
+  {
+    "quote": "The best way to predict the future is to create it.",
+    "quote_en": "The best way to predict the future is to create it.",
+    "quote_vi": "Cách tốt nhất để dự đoán tương lai là tự tay tạo ra nó.",
+    "quote_original": "The best way to predict the future is to create it.",
+    "author": "",
+    "rating": 5.0
+  },
+  {
+    "quote": "Think big. Start small. Begin now.",
+    "quote_en": "Think big. Start small. Begin now.",
+    "quote_vi": "Nghĩ lớn. Bắt đầu nhỏ. Làm ngay.",
+    "quote_original": "Think big. Start small. Begin now.",
+    "author": "",
+    "rating": 4.9
+  },
+  {
+    "quote": "The important thing is not to stop questioning.",
+    "quote_en": "The important thing is not to stop questioning.",
+    "quote_vi": "Điều quan trọng là đừng bao giờ ngừng đặt câu hỏi.",
+    "quote_original": "The important thing is not to stop questioning.",
+    "author": "Einstein",
+    "rating": 4.9
+  },
+  {
+    "quote": "Tell me, what is it you plan to do with your one wild and precious life?",
+    "quote_en": "Tell me, what is it you plan to do with your one wild and precious life?",
+    "quote_vi": "Bạn định làm gì với cuộc đời duy nhất, hoang dã và quý giá này?",
+    "quote_original": "Tell me, what is it you plan to do with your one wild and precious life?",
+    "author": "Mary Oliver",
+    "rating": 4.9
+  },
+  {
+    "quote": "Stay Hungry. Stay Foolish.",
+    "quote_en": "Stay Hungry. Stay Foolish.",
+    "quote_vi": "Luôn khao khát. Luôn đủ ngây thơ để dám thử.",
+    "quote_original": "Stay Hungry. Stay Foolish.",
+    "author": "Whole Earth Catalog",
+    "rating": 4.9
+  },
+  {
+    "quote": "Every action you take is a vote for the type of person you wish to become.",
+    "quote_en": "Every action you take is a vote for the type of person you wish to become.",
+    "quote_vi": "Mỗi hành động là một lá phiếu cho con người bạn muốn trở thành.",
+    "quote_original": "Every action you take is a vote for the type of person you wish to become.",
+    "author": "James Clear",
+    "rating": 4.9
+  },
+  {
+    "quote": "Start where you are. Use what you have. Do what you can.",
+    "quote_en": "Start where you are. Use what you have. Do what you can.",
+    "quote_vi": "Bắt đầu từ nơi bạn đang đứng. Dùng những gì đang có. Làm những gì có thể.",
+    "quote_original": "Start where you are. Use what you have. Do what you can.",
+    "author": "Arthur Ashe",
+    "rating": 4.9
+  },
+  {
+    "quote": "How we spend our days is, of course, how we spend our lives.",
+    "quote_en": "How we spend our days is, of course, how we spend our lives.",
+    "quote_vi": "Cách ta sống từng ngày chính là cách ta sống cả cuộc đời.",
+    "quote_original": "How we spend our days is, of course, how we spend our lives.",
+    "author": "Annie Dillard",
+    "rating": 4.8
+  },
+  {
+    "quote": "This is a wonderful day. I’ve never seen this one before.",
+    "quote_en": "This is a wonderful day. I’ve never seen this one before.",
+    "quote_vi": "Hôm nay là một ngày tuyệt vời. Tôi chưa từng sống ngày này trước đây.",
+    "quote_original": "This is a wonderful day. I’ve never seen this one before.",
+    "author": "Maya Angelou",
+    "rating": 4.8
+  },
+  {
+    "quote": "Live the questions now.",
+    "quote_en": "Live the questions now.",
+    "quote_vi": "Hãy sống cùng những câu hỏi ngay lúc này.",
+    "quote_original": "Leben Sie jetzt die Fragen.",
+    "author": "Rilke",
+    "rating": 4.8
+  },
+  {
+    "quote": "What I cannot create, I do not understand.",
+    "quote_en": "What I cannot create, I do not understand.",
+    "quote_vi": "Điều tôi không thể tạo ra, tôi chưa thực sự hiểu.",
+    "quote_original": "What I cannot create, I do not understand.",
+    "author": "Feynman",
+    "rating": 4.8
+  },
+  {
+    "quote": "Life is either a daring adventure or nothing.",
+    "quote_en": "Life is either a daring adventure or nothing.",
+    "quote_vi": "Cuộc đời hoặc là một cuộc phiêu lưu táo bạo, hoặc chẳng là gì cả.",
+    "quote_original": "Life is either a daring adventure or nothing.",
+    "author": "Helen Keller",
+    "rating": 4.8
+  },
+  {
+    "quote": "Your time is limited, so don’t waste it living someone else’s life.",
+    "quote_en": "Your time is limited, so don’t waste it living someone else’s life.",
+    "quote_vi": "Thời gian có hạn. Đừng sống cuộc đời của người khác.",
+    "quote_original": "Your time is limited, so don’t waste it living someone else’s life.",
+    "author": "Steve Jobs",
+    "rating": 4.8
+  },
+  {
+    "quote": "The impediment to action advances action. What stands in the way becomes the way.",
+    "quote_en": "The impediment to action advances action. What stands in the way becomes the way.",
+    "quote_vi": "Thứ cản đường sẽ trở thành con đường.",
+    "quote_original": "περιτρέπει γὰρ καὶ μεθίστησι πᾶν τὸ τῆς ἐνεργείας κώλυμα ἡ διάνοια εἰς τὸ προηγούμενον καὶ πρὸ ἔργου γίνεται τὸ τοῦ ἔργου τούτου ἐφεκτικὸν καὶ πρὸ ὁδοῦ τὸ τῆς ὁδοῦ ταύτης ἐνστατικόν.",
+    "author": "Marcus Aurelius",
+    "rating": 4.8
+  },
+  {
+    "quote": "Begin anywhere.",
+    "quote_en": "Begin anywhere.",
+    "quote_vi": "Bắt đầu ở đâu cũng được.",
+    "quote_original": "Begin anywhere.",
+    "author": "John Cage",
+    "rating": 4.7
+  },
+  {
+    "quote": "In the beginner’s mind there are many possibilities…",
+    "quote_en": "In the beginner’s mind there are many possibilities…",
+    "quote_vi": "Trong tâm thế người mới bắt đầu luôn có vô vàn khả năng.",
+    "quote_original": "In the beginner’s mind there are many possibilities…",
+    "author": "Shunryu Suzuki",
+    "rating": 4.7
+  },
+  {
+    "quote": "Real generosity toward the future lies in giving all to the present.",
+    "quote_en": "Real generosity toward the future lies in giving all to the present.",
+    "quote_vi": "Món quà lớn nhất cho tương lai là sống hết mình với hiện tại.",
+    "quote_original": "La vraie générosité envers l'avenir consiste à tout donner au présent.",
+    "author": "Camus",
+    "rating": 4.7
+  },
+  {
+    "quote": "The function of man is to live, not to exist.",
+    "quote_en": "The function of man is to live, not to exist.",
+    "quote_vi": "Con người sinh ra để sống, không chỉ để tồn tại.",
+    "quote_original": "The function of man is to live, not to exist.",
+    "author": "Jack London",
+    "rating": 4.7
+  },
+  {
+    "quote": "Study hard what interests you the most…",
+    "quote_en": "Study hard what interests you the most…",
+    "quote_vi": "Hãy học thật sâu điều khiến bạn hứng thú nhất, theo cách tự do và nguyên bản.",
+    "quote_original": "Study hard what interests you the most…",
+    "author": "Richard Feynman",
+    "rating": 4.7
+  },
+  {
+    "quote": "A ship in harbor is safe, but that is not what ships are built for.",
+    "quote_en": "A ship in harbor is safe, but that is not what ships are built for.",
+    "quote_vi": "Tàu ở cảng thì an toàn, nhưng tàu không được tạo ra để nằm mãi trong cảng.",
+    "quote_original": "A ship in harbor is safe, but that is not what ships are built for.",
+    "author": "John A. Shedd",
+    "rating": 4.7
+  },
+  {
+    "quote": "Knowing is not enough; we must apply. Willing is not enough; we must do.",
+    "quote_en": "Knowing is not enough; we must apply. Willing is not enough; we must do.",
+    "quote_vi": "Biết chưa đủ, phải áp dụng. Muốn chưa đủ, phải hành động.",
+    "quote_original": "Es ist nicht genug zu wissen, man muß auch anwenden; es ist nicht genug zu wollen, man muß auch tun.",
+    "author": "Goethe",
+    "rating": 4.7
+  },
+  {
+    "quote": "Make each day your masterpiece.",
+    "quote_en": "Make each day your masterpiece.",
+    "quote_vi": "Hãy biến mỗi ngày thành một tác phẩm của mình.",
+    "quote_original": "Make each day your masterpiece.",
+    "author": "John Wooden",
+    "rating": 4.7
+  },
+  {
+    "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+    "quote_en": "The only limit to our realization of tomorrow will be our doubts of today.",
+    "quote_vi": "Giới hạn duy nhất đối với việc hiện thực hóa ngày mai là những hoài nghi của chúng ta hôm nay.",
+    "quote_original": "The only limit to our realization of tomorrow will be our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "rating": 4.7
+  },
+  {
+    "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+    "quote_en": "To live is the rarest thing in the world. Most people exist, that is all.",
+    "quote_vi": "Thực sự sống là điều hiếm hoi nhất; phần lớn chỉ đang tồn tại.",
+    "quote_original": "To live is the rarest thing in the world. Most people exist, that is all.",
+    "author": "Oscar Wilde",
+    "rating": 4.6
+  },
+  {
+    "quote": "The question is not what you look at, but what you see.",
+    "quote_en": "The question is not what you look at, but what you see.",
+    "quote_vi": "Điều quan trọng không phải bạn nhìn gì, mà là bạn nhìn thấy gì.",
+    "quote_original": "The question is not what you look at, but what you see.",
+    "author": "Thoreau",
+    "rating": 4.6
+  },
+  {
+    "quote": "Act as if what you do makes a difference. It does.",
+    "quote_en": "Act as if what you do makes a difference. It does.",
+    "quote_vi": "Hãy hành động như thể việc bạn làm tạo ra khác biệt. Bởi nó thực sự có.",
+    "quote_original": "Act as if what you do makes a difference. It does.",
+    "author": "William James",
+    "rating": 4.6
+  },
+  {
+    "quote": "Don’t wait until you know who you are to get started.",
+    "quote_en": "Don’t wait until you know who you are to get started.",
+    "quote_vi": "Đừng chờ hiểu hết bản thân rồi mới bắt đầu.",
+    "quote_original": "Don’t wait until you know who you are to get started.",
+    "author": "Austin Kleon",
+    "rating": 4.6
+  },
+  {
+    "quote": "A journey of a thousand miles begins with a single step.",
+    "quote_en": "A journey of a thousand miles begins with a single step.",
+    "quote_vi": "Hành trình ngàn dặm bắt đầu bằng một bước chân.",
+    "quote_original": "千里之行，始於足下。",
+    "author": "Lao Tzu",
+    "rating": 4.6
+  },
+  {
+    "quote": "Life shrinks or expands in proportion to one’s courage.",
+    "quote_en": "Life shrinks or expands in proportion to one’s courage.",
+    "quote_vi": "Cuộc đời co lại hay mở rộng theo mức độ can đảm của bạn.",
+    "quote_original": "Life shrinks or expands in proportion to one’s courage.",
+    "author": "Anaïs Nin",
+    "rating": 4.6
+  },
+  {
+    "quote": "Energy is eternal delight.",
+    "quote_en": "Energy is eternal delight.",
+    "quote_vi": "Năng lượng là niềm vui bất tận.",
+    "quote_original": "Energy is eternal delight.",
+    "author": "William Blake",
+    "rating": 4.6
+  },
+  {
+    "quote": "Inspiration exists, but it has to find you working.",
+    "quote_en": "Inspiration exists, but it has to find you working.",
+    "quote_vi": "Cảm hứng có tồn tại, nhưng nó phải bắt gặp bạn đang làm việc.",
+    "quote_original": "Inspiration exists, but it has to find you working.",
+    "author": "Picasso",
+    "rating": 4.6
+  },
+  {
+    "quote": "Nothing will work unless you do.",
+    "quote_en": "Nothing will work unless you do.",
+    "quote_vi": "Không điều gì vận hành nếu chính bạn không bắt tay vào làm.",
+    "quote_original": "Nothing will work unless you do.",
+    "author": "Maya Angelou",
+    "rating": 4.6
+  },
+  {
+    "quote": "The way to get started is to quit talking and begin doing.",
+    "quote_en": "The way to get started is to quit talking and begin doing.",
+    "quote_vi": "Muốn bắt đầu, hãy ngừng nói và bắt tay vào làm.",
+    "quote_original": "The way to get started is to quit talking and begin doing.",
+    "author": "Walt Disney",
+    "rating": 4.6
+  },
+  {
+    "quote": "Becoming is better than being.",
+    "quote_en": "Becoming is better than being.",
+    "quote_vi": "Đang trở thành tốt hơn quan trọng hơn việc chứng minh mình đã giỏi.",
+    "quote_original": "Becoming is better than being.",
+    "author": "Carol Dweck",
+    "rating": 4.6
+  },
+  {
+    "quote": "No feeling is final.",
+    "quote_en": "No feeling is final.",
+    "quote_vi": "Không cảm xúc nào là mãi mãi.",
+    "quote_original": "Kein Gefühl ist das fernste.",
+    "author": "Rilke",
+    "rating": 4.5
+  },
+  {
+    "quote": "Fall seven times, stand up eight.",
+    "quote_en": "Fall seven times, stand up eight.",
+    "quote_vi": "Ngã bảy lần, đứng dậy tám lần.",
+    "quote_original": "七転び八起き",
+    "author": "Japanese proverb",
+    "rating": 4.5
+  },
+  {
+    "quote": "Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.",
+    "quote_en": "Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.",
+    "quote_vi": "Đã thử. Đã thất bại. Không sao. Thử lại. Thất bại tốt hơn.",
+    "quote_original": "Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.",
+    "author": "Beckett",
+    "rating": 4.5
+  },
+  {
+    "quote": "In the depth of winter… within me there lay an invincible summer.",
+    "quote_en": "In the depth of winter… within me there lay an invincible summer.",
+    "quote_vi": "Giữa mùa đông sâu thẳm, tôi tìm thấy một mùa hè bất khả chiến bại bên trong mình.",
+    "quote_original": "Au milieu de l'hiver, j'apprenais enfin qu'il y avait en moi un été invincible.",
+    "author": "Camus",
+    "rating": 4.5
+  },
+  {
+    "quote": "Learning never exhausts the mind.",
+    "quote_en": "Learning never exhausts the mind.",
+    "quote_vi": "Học hỏi không bao giờ làm tâm trí cạn kiệt.",
+    "quote_original": "Learning never exhausts the mind.",
+    "author": "Leonardo da Vinci",
+    "rating": 4.5
+  },
+  {
+    "quote": "Be less curious about people and more curious about ideas.",
+    "quote_en": "Be less curious about people and more curious about ideas.",
+    "quote_vi": "Hãy tò mò nhiều hơn về ý tưởng.",
+    "quote_original": "Be less curious about people and more curious about ideas.",
+    "author": "Marie Curie",
+    "rating": 4.5
+  },
+  {
+    "quote": "Nothing in life is to be feared; it is only to be understood.",
+    "quote_en": "Nothing in life is to be feared; it is only to be understood.",
+    "quote_vi": "Không có gì cần phải sợ; điều cần làm là hiểu nó.",
+    "quote_original": "Nothing in life is to be feared; it is only to be understood.",
+    "author": "Marie Curie",
+    "rating": 4.5
+  },
+  {
+    "quote": "We are a way for the cosmos to know itself.",
+    "quote_en": "We are a way for the cosmos to know itself.",
+    "quote_vi": "Chúng ta là một cách để vũ trụ hiểu về chính nó.",
+    "quote_original": "We are a way for the cosmos to know itself.",
+    "author": "Carl Sagan",
+    "rating": 4.5
+  },
+  {
+    "quote": "Imagination will often carry us to worlds that never were…",
+    "quote_en": "Imagination will often carry us to worlds that never were…",
+    "quote_vi": "Trí tưởng tượng đưa ta đến những thế giới chưa từng tồn tại.",
+    "quote_original": "Imagination will often carry us to worlds that never were…",
+    "author": "Carl Sagan",
+    "rating": 4.5
+  },
+  {
+    "quote": "First say to yourself what you would be; and then do what you have to do.",
+    "quote_en": "First say to yourself what you would be; and then do what you have to do.",
+    "quote_vi": "Hãy xác định mình muốn trở thành ai, rồi làm điều cần làm.",
+    "quote_original": "Τίς εἶναι θέλεις, σαυτῷ πρῶτον ἐιπέ· εἶθ᾿ οὕτως ποίει ἃ ποιεῖς.",
+    "author": "Epictetus",
+    "rating": 4.5
+  },
+  {
+    "quote": "While we wait for life, life passes.",
+    "quote_en": "While we wait for life, life passes.",
+    "quote_vi": "Trong khi ta chờ cuộc sống bắt đầu, cuộc sống đang trôi qua.",
+    "quote_original": "Dum differtur vita transcurrit.",
+    "author": "Seneca",
+    "rating": 4.5
+  },
+  {
+    "quote": "Don’t count the days; make the days count.",
+    "quote_en": "Don’t count the days; make the days count.",
+    "quote_vi": "Đừng đếm ngày. Hãy khiến từng ngày đáng giá.",
+    "quote_original": "Don’t count the days; make the days count.",
+    "author": "Muhammad Ali",
+    "rating": 4.5
+  },
+  {
+    "quote": "Instructions for living a life: Pay attention. Be astonished. Tell about it.",
+    "quote_en": "Instructions for living a life: Pay attention. Be astonished. Tell about it.",
+    "quote_vi": "Hãy chú ý. Hãy kinh ngạc. Và hãy kể lại.",
+    "quote_original": "Instructions for living a life: Pay attention. Be astonished. Tell about it.",
+    "author": "Mary Oliver",
+    "rating": 4.5
+  },
+  {
+    "quote": "Not all those who wander are lost.",
+    "quote_en": "Not all those who wander are lost.",
+    "quote_vi": "Không phải tất cả những người lang thang đều đang lạc đường.",
+    "quote_original": "Not all those who wander are lost.",
+    "author": "Tolkien",
+    "rating": 4.4
+  },
+  {
+    "quote": "Enthusiasm is common. Endurance is rare.",
+    "quote_en": "Enthusiasm is common. Endurance is rare.",
+    "quote_vi": "Hào hứng thì phổ biến. Bền bỉ mới hiếm.",
+    "quote_original": "Enthusiasm is common. Endurance is rare.",
+    "author": "Angela Duckworth",
+    "rating": 4.4
+  },
+  {
+    "quote": "You may encounter many defeats, but you must not be defeated.",
+    "quote_en": "You may encounter many defeats, but you must not be defeated.",
+    "quote_vi": "Bạn có thể gặp nhiều thất bại, nhưng đừng để bản thân bị đánh bại.",
+    "quote_original": "You may encounter many defeats, but you must not be defeated.",
+    "author": "Maya Angelou",
+    "rating": 4.4
+  },
+  {
+    "quote": "Energy and persistence conquer all things.",
+    "quote_en": "Energy and persistence conquer all things.",
+    "quote_vi": "Năng lượng và sự bền bỉ có thể chinh phục mọi thứ.",
+    "quote_original": "Energy and persistence conquer all things.",
+    "author": "Benjamin Franklin",
+    "rating": 4.4
+  },
+  {
+    "quote": "We are what we repeatedly do.",
+    "quote_en": "We are what we repeatedly do.",
+    "quote_vi": "Chúng ta chính là những gì mình lặp lại mỗi ngày.",
+    "quote_original": "We are what we repeatedly do.",
+    "author": "Will Durant",
+    "rating": 4.4
+  },
+  {
+    "quote": "Excellence, then, is not an act, but a habit.",
+    "quote_en": "Excellence, then, is not an act, but a habit.",
+    "quote_vi": "Xuất sắc không phải hành động nhất thời, mà là thói quen.",
+    "quote_original": "Excellence, then, is not an act, but a habit.",
+    "author": "Will Durant",
+    "rating": 4.4
+  },
+  {
+    "quote": "You do not rise to the level of your goals. You fall to the level of your systems.",
+    "quote_en": "You do not rise to the level of your goals. You fall to the level of your systems.",
+    "quote_vi": "Bạn không vươn lên theo mục tiêu; bạn rơi về mức độ của hệ thống mình xây dựng.",
+    "quote_original": "You do not rise to the level of your goals. You fall to the level of your systems.",
+    "author": "James Clear",
+    "rating": 4.4
+  },
+  {
+    "quote": "Great things are done by a series of small things brought together.",
+    "quote_en": "Great things are done by a series of small things brought together.",
+    "quote_vi": "Điều lớn lao được tạo nên từ rất nhiều điều nhỏ bé.",
+    "quote_original": "Grote dingen gebeuren niet alleen door een impuls, maar als een opeenvolging van kleine dingen die met elkaar verbonden zijn.",
+    "author": "Van Gogh",
+    "rating": 4.4
+  },
+  {
+    "quote": "Only those who will risk going too far can possibly find out how far one can go.",
+    "quote_en": "Only those who will risk going too far can possibly find out how far one can go.",
+    "quote_vi": "Chỉ người dám đi xa mới biết mình có thể đi xa đến đâu.",
+    "quote_original": "Only those who will risk going too far can possibly find out how far one can go.",
+    "author": "T. S. Eliot",
+    "rating": 4.4
+  },
+  {
+    "quote": "The credit belongs to the man who is actually in the arena.",
+    "quote_en": "The credit belongs to the man who is actually in the arena.",
+    "quote_vi": "Vinh dự thuộc về người thực sự bước vào đấu trường.",
+    "quote_original": "The credit belongs to the man who is actually in the arena.",
+    "author": "Theodore Roosevelt",
+    "rating": 4.4
+  },
+  {
+    "quote": "Far better it is to dare mighty things…",
+    "quote_en": "Far better it is to dare mighty things…",
+    "quote_vi": "Thà dám làm điều lớn lao còn hơn không bao giờ dám thử.",
+    "quote_original": "Far better it is to dare mighty things…",
+    "author": "Theodore Roosevelt",
+    "rating": 4.4
+  },
+  {
+    "quote": "Courage starts with showing up and letting ourselves be seen.",
+    "quote_en": "Courage starts with showing up and letting ourselves be seen.",
+    "quote_vi": "Can đảm bắt đầu bằng việc xuất hiện và để mình được nhìn thấy.",
+    "quote_original": "Courage starts with showing up and letting ourselves be seen.",
+    "author": "Brené Brown",
+    "rating": 4.4
+  },
+  {
+    "quote": "Never be limited by other people’s limited imaginations.",
+    "quote_en": "Never be limited by other people’s limited imaginations.",
+    "quote_vi": "Đừng để trí tưởng tượng giới hạn của người khác giới hạn cuộc đời bạn.",
+    "quote_original": "Never be limited by other people’s limited imaginations.",
+    "author": "Mae Jemison",
+    "rating": 4.4
+  },
+  {
+    "quote": "He who has a why to live can bear almost any how.",
+    "quote_en": "He who has a why to live can bear almost any how.",
+    "quote_vi": "Người có lý do để sống có thể chịu đựng gần như mọi nghịch cảnh.",
+    "quote_original": "Hat man sein warum? des Lebens, so verträgt man sich fast mit jedem wie?",
+    "author": "Nietzsche",
+    "rating": 4.4
+  },
+  {
+    "quote": "When we are no longer able to change a situation, we are challenged to change ourselves.",
+    "quote_en": "When we are no longer able to change a situation, we are challenged to change ourselves.",
+    "quote_vi": "Khi không thể thay đổi hoàn cảnh, thử thách là thay đổi chính mình.",
+    "quote_original": "Wo wir eine Situation nicht ändern können, gerade dort ist uns abverlangt, uns selbst zu ändern, nämlich zu reifen, zu wachsen, über uns selbst hinauszuwachsen!",
+    "author": "Viktor Frankl",
+    "rating": 4.4
+  },
+  {
+    "quote": "Life can only be understood backwards; but it must be lived forwards.",
+    "quote_en": "Life can only be understood backwards; but it must be lived forwards.",
+    "quote_vi": "Ta hiểu cuộc đời khi nhìn lại, nhưng phải sống về phía trước.",
+    "quote_original": "Det er ganske sandt, hvad Philosophien siger, at Livet maa forstaaes baglænds. Men derover glemmer man den anden Sætning, at det maa leves forlænds.",
+    "author": "Kierkegaard",
+    "rating": 4.4
+  },
+  {
+    "quote": "The present moment is filled with joy and happiness…",
+    "quote_en": "The present moment is filled with joy and happiness…",
+    "quote_vi": "Giây phút hiện tại chứa đầy niềm vui; nếu đủ tỉnh thức, bạn sẽ nhận ra.",
+    "quote_original": "The present moment is filled with joy and happiness…",
+    "author": "Thích Nhất Hạnh",
+    "rating": 4.4
+  },
+  {
+    "quote": "Absorb what is useful, discard what is useless and add what is specifically your own.",
+    "quote_en": "Absorb what is useful, discard what is useless and add what is specifically your own.",
+    "quote_vi": "Tiếp nhận điều hữu ích, bỏ điều vô ích và thêm vào dấu ấn của chính bạn.",
+    "quote_original": "Absorb what is useful, discard what is useless and add what is specifically your own.",
+    "author": "Bruce Lee",
+    "rating": 4.4
+  },
+  {
+    "quote": "Do one thing every day that scares you.",
+    "quote_en": "Do one thing every day that scares you.",
+    "quote_vi": "Mỗi ngày hãy làm một điều khiến bạn hơi sợ.",
+    "quote_original": "Do one thing every day that scares you.",
+    "author": "Mary Schmich",
+    "rating": 4.3
+  },
+  {
+    "quote": "It’s kind of fun to do the impossible.",
+    "quote_en": "It’s kind of fun to do the impossible.",
+    "quote_vi": "Làm điều tưởng như bất khả thi thật ra rất thú vị.",
+    "quote_original": "It’s kind of fun to do the impossible.",
+    "author": "Walt Disney",
+    "rating": 4.3
+  },
+  {
+    "quote": "I’ve failed over and over again in my life. And that is why I succeed.",
+    "quote_en": "I’ve failed over and over again in my life. And that is why I succeed.",
+    "quote_vi": "Tôi thất bại hết lần này đến lần khác, và chính vì thế tôi thành công.",
+    "quote_original": "I’ve failed over and over again in my life. And that is why I succeed.",
+    "author": "Michael Jordan",
+    "rating": 4.3
+  },
+  {
+    "quote": "Pressure is a privilege.",
+    "quote_en": "Pressure is a privilege.",
+    "quote_vi": "Áp lực cũng có thể là một đặc ân.",
+    "quote_original": "Pressure is a privilege.",
+    "author": "Billie Jean King",
+    "rating": 4.3
+  },
+  {
+    "quote": "Waste no more time arguing what a good man should be. Be one.",
+    "quote_en": "Waste no more time arguing what a good man should be. Be one.",
+    "quote_vi": "Đừng tranh luận thêm về người tốt nên thế nào. Hãy trở thành người đó.",
+    "quote_original": "Μηκέθ̓ ὅλως περὶ τοῦ οἷόν τινα εἶναι τὸν ἀγαθὸν ἄνδρα διαλέγεσθαι, ἀλλὰ εἶναι τοιοῦτον.",
+    "author": "Marcus Aurelius",
+    "rating": 4.3
+  },
+  {
+    "quote": "It is not that we have a short time to live, but that we waste a lot of it.",
+    "quote_en": "It is not that we have a short time to live, but that we waste a lot of it.",
+    "quote_vi": "Không phải đời quá ngắn; ta chỉ lãng phí quá nhiều thời gian.",
+    "quote_original": "Non exiguum temporis habemus, sed multum perdidimus.",
+    "author": "Seneca",
+    "rating": 4.3
+  },
+  {
+    "quote": "An investment in knowledge pays the best interest.",
+    "quote_en": "An investment in knowledge pays the best interest.",
+    "quote_vi": "Đầu tư vào tri thức luôn mang lại lợi tức tốt nhất.",
+    "quote_original": "An investment in knowledge pays the best interest.",
+    "author": "Benjamin Franklin",
+    "rating": 4.3
+  },
+  {
+    "quote": "If I have seen further it is by standing on the shoulders of Giants.",
+    "quote_en": "If I have seen further it is by standing on the shoulders of Giants.",
+    "quote_vi": "Nếu tôi nhìn xa hơn, đó là vì tôi đứng trên vai những người khổng lồ.",
+    "quote_original": "If I have seen further it is by standing on the shoulders of Giants.",
+    "author": "Newton",
+    "rating": 4.3
+  },
+  {
+    "quote": "A little progress each day adds up to big results.",
+    "quote_en": "A little progress each day adds up to big results.",
+    "quote_vi": "Một chút tiến bộ mỗi ngày sẽ cộng lại thành kết quả lớn.",
+    "quote_original": "A little progress each day adds up to big results.",
+    "author": "",
+    "rating": 4.3
+  },
+  {
+    "quote": "Dream big. Start small. Act now.",
+    "quote_en": "Dream big. Start small. Act now.",
+    "quote_vi": "Mơ lớn. Bắt đầu nhỏ. Hành động ngay.",
+    "quote_original": "Dream big. Start small. Act now.",
+    "author": "",
+    "rating": 4.3
+  },
+  {
+    "quote": "Do not let what you cannot do interfere with what you can do.",
+    "quote_en": "Do not let what you cannot do interfere with what you can do.",
+    "quote_vi": "Đừng để điều chưa thể làm cản trở điều bạn có thể làm.",
+    "quote_original": "Do not let what you cannot do interfere with what you can do.",
+    "author": "John Wooden",
+    "rating": 4.3
+  },
+  {
+    "quote": "The only way to do great work is to love what you do.",
+    "quote_en": "The only way to do great work is to love what you do.",
+    "quote_vi": "Muốn làm việc tuyệt vời, hãy yêu điều mình làm.",
+    "quote_original": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "rating": 4.3
+  },
+  {
+    "quote": "Nothing great was ever achieved without enthusiasm.",
+    "quote_en": "Nothing great was ever achieved without enthusiasm.",
+    "quote_vi": "Không điều vĩ đại nào được tạo nên mà thiếu nhiệt huyết.",
+    "quote_original": "Nothing great was ever achieved without enthusiasm.",
+    "author": "Emerson",
+    "rating": 4.2
+  },
+  {
+    "quote": "Hitch your wagon to a star.",
+    "quote_en": "Hitch your wagon to a star.",
+    "quote_vi": "Hãy gắn hành trình của mình với một ngôi sao đủ lớn.",
+    "quote_original": "Hitch your wagon to a star.",
+    "author": "Emerson",
+    "rating": 4.2
+  },
+  {
+    "quote": "The road goes ever on.",
+    "quote_en": "The road goes ever on.",
+    "quote_vi": "Con đường vẫn luôn tiếp tục phía trước.",
+    "quote_original": "The road goes ever on.",
+    "author": "Tolkien",
+    "rating": 4.2
+  },
+  {
+    "quote": "Real change, enduring change, happens one step at a time.",
+    "quote_en": "Real change, enduring change, happens one step at a time.",
+    "quote_vi": "Thay đổi bền vững diễn ra từng bước một.",
+    "quote_original": "Real change, enduring change, happens one step at a time.",
+    "author": "Ruth Bader Ginsburg",
+    "rating": 4.2
+  },
+  {
+    "quote": "The time is always right to do what is right.",
+    "quote_en": "The time is always right to do what is right.",
+    "quote_vi": "Thời điểm đúng để làm điều đúng luôn là ngay bây giờ.",
+    "quote_original": "The time is always right to do what is right.",
+    "author": "Martin Luther King Jr.",
+    "rating": 4.2
+  },
+  {
+    "quote": "Not everything that is faced can be changed, but nothing can be changed until it is faced.",
+    "quote_en": "Not everything that is faced can be changed, but nothing can be changed until it is faced.",
+    "quote_vi": "Không phải mọi điều đối mặt đều thay đổi được, nhưng không đối mặt thì chẳng gì thay đổi.",
+    "quote_original": "Not everything that is faced can be changed, but nothing can be changed until it is faced.",
+    "author": "James Baldwin",
+    "rating": 4.2
+  },
+  {
+    "quote": "Optimism is the faith that leads to achievement.",
+    "quote_en": "Optimism is the faith that leads to achievement.",
+    "quote_vi": "Lạc quan là niềm tin dẫn tới thành tựu.",
+    "quote_original": "Optimism is the faith that leads to achievement.",
+    "author": "Helen Keller",
+    "rating": 4.1
+  },
+  {
+    "quote": "One child, one teacher, one book, one pen can change the world.",
+    "quote_en": "One child, one teacher, one book, one pen can change the world.",
+    "quote_vi": "Một đứa trẻ, một người thầy, một cuốn sách, một cây bút có thể thay đổi thế giới.",
+    "quote_original": "One child, one teacher, one book, one pen can change the world.",
+    "author": "Malala",
+    "rating": 4.1
+  },
+  {
+    "quote": "How wonderful it is that nobody need wait a single moment before starting to improve the world.",
+    "quote_en": "How wonderful it is that nobody need wait a single moment before starting to improve the world.",
+    "quote_vi": "Không ai cần chờ thêm một phút để bắt đầu làm thế giới tốt đẹp hơn.",
+    "quote_original": "Hoe heerlijk is het, dat niemand een minuut hoeft te wachten met te beginnen de wereld langzaam te doen veranderen!",
+    "author": "Anne Frank",
+    "rating": 4.1
+  },
+  {
+    "quote": "The best time to plant a tree was years ago. The second best time is now.",
+    "quote_en": "The best time to plant a tree was years ago. The second best time is now.",
+    "quote_vi": "Thời điểm tốt thứ hai để bắt đầu là ngay bây giờ.",
+    "quote_original": "The best time to plant a tree was years ago. The second best time is now.",
+    "author": "Proverb",
+    "rating": 4.1
+  },
+  {
+    "quote": "The secret of getting ahead is getting started.",
+    "quote_en": "The secret of getting ahead is getting started.",
+    "quote_vi": "Bí quyết để tiến lên là bắt đầu.",
+    "quote_original": "The secret of getting ahead is getting started.",
+    "author": "",
+    "rating": 4.1
+  },
+  {
+    "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+    "quote_en": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+    "quote_vi": "Thiên tài là một phần cảm hứng và phần lớn là nỗ lực.",
+    "quote_original": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+    "author": "Edison",
+    "rating": 4.0
+  },
+  {
+    "quote": "The world breaks everyone and afterward many are strong at the broken places.",
+    "quote_en": "The world breaks everyone and afterward many are strong at the broken places.",
+    "quote_vi": "Cuộc đời làm ta tổn thương, nhưng nhiều người mạnh hơn tại chính những nơi từng vỡ vụn.",
+    "quote_original": "The world breaks everyone and afterward many are strong at the broken places.",
+    "author": "Hemingway",
+    "rating": 4.0
+  },
+  {
+    "quote": "I would rather be ashes than dust!",
+    "quote_en": "I would rather be ashes than dust!",
+    "quote_vi": "Tôi thà cháy rực thành tro còn hơn lặng lẽ hóa bụi.",
+    "quote_original": "I would rather be ashes than dust!",
+    "author": "Jack London",
+    "rating": 4.0
+  },
+  {
+    "quote": "We tell ourselves stories in order to live.",
+    "quote_en": "We tell ourselves stories in order to live.",
+    "quote_vi": "Chúng ta kể những câu chuyện cho chính mình để sống.",
+    "quote_original": "We tell ourselves stories in order to live.",
+    "author": "Joan Didion",
+    "rating": 4.0
+  },
+  {
+    "quote": "The road of excess leads to the palace of wisdom.",
+    "quote_en": "The road of excess leads to the palace of wisdom.",
+    "quote_vi": "Đôi khi phải đi đủ xa mới tìm thấy sự thông thái.",
+    "quote_original": "The road of excess leads to the palace of wisdom.",
+    "author": "William Blake",
+    "rating": 3.9
+  },
+  {
+    "quote": "Ignorance more frequently begets confidence than does knowledge.",
+    "quote_en": "Ignorance more frequently begets confidence than does knowledge.",
+    "quote_vi": "Thiếu hiểu biết thường tạo ra tự tin dễ hơn tri thức.",
+    "quote_original": "Ignorance more frequently begets confidence than does knowledge.",
+    "author": "Darwin",
+    "rating": 3.8
+  },
+  {
+    "quote": "A man who dares to waste one hour of time has not discovered the value of life.",
+    "quote_en": "A man who dares to waste one hour of time has not discovered the value of life.",
+    "quote_vi": "Người lãng phí thời gian vẫn chưa hiểu hết giá trị của cuộc sống.",
+    "quote_original": "A man who dares to waste one hour of time has not discovered the value of life.",
+    "author": "Darwin",
+    "rating": 3.8
+  },
+  {
+    "quote": "Nothing happens to anyone that he can’t endure.",
+    "quote_en": "Nothing happens to anyone that he can’t endure.",
+    "quote_vi": "Không điều gì xảy đến mà ta hoàn toàn không thể chịu đựng.",
+    "quote_original": "Οὐδὲν οὐδενὶ συμβαίνει ὃ οὐχὶ ἐκεῖνο πέφυκε φέρειν.",
+    "author": "Marcus Aurelius",
+    "rating": 3.8
+  },
+  {
+    "quote": "Without courage, you can’t practice any other virtue consistently.",
+    "quote_en": "Without courage, you can’t practice any other virtue consistently.",
+    "quote_vi": "Không có can đảm, khó có thể kiên định với những phẩm chất khác.",
+    "quote_original": "Without courage, you can’t practice any other virtue consistently.",
+    "author": "Maya Angelou",
+    "rating": 3.8
+  },
+  {
+    "quote": "I learned that courage was not the absence of fear, but the triumph over it.",
+    "quote_en": "I learned that courage was not the absence of fear, but the triumph over it.",
+    "quote_vi": "Can đảm không phải không sợ, mà là vượt lên trên nỗi sợ.",
+    "quote_original": "I learned that courage was not the absence of fear, but the triumph over it.",
+    "author": "Mandela",
+    "rating": 3.8
+  },
+  {
+    "quote": "Be curious. Be brave. Keep going.",
+    "quote_en": "Be curious. Be brave. Keep going.",
+    "quote_vi": "Hãy tò mò. Hãy can đảm. Và cứ tiếp tục.",
+    "quote_original": "Be curious. Be brave. Keep going.",
+    "author": "Modern maxim",
+    "rating": 3.8
   }
 ]
